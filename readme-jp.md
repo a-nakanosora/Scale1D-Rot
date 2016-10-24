@@ -15,8 +15,8 @@
 ## インストール
 
 1. `mesh_scale1d_rot.py` をダウンロード
--  `Blender User Preference` > `Install from File`  から `mesh_scale1d_rot.py` を選択
--  適当にショートカットキーをアサインしてください
+2. `Blender User Preference` > `Install from File`  から `mesh_scale1d_rot.py` を選択
+3. 適当にショートカットキーをアサインしてください
 
    (ツールシェルフにあるパネルの`Scake1D+Rot`ボタンを右クリックで簡単にショートカットキーを設定できます)
 
@@ -27,7 +27,7 @@
 ## 使い方
 
 1. Edit Mesh モードでメッシュを選択
--  ショートカットキーから `Scale1D+Rot` を実行した後、
+2. ショートカットキーから `Scale1D+Rot` を実行した後、
 
    - マウスカーソル移動： 選択メッシュのスケールと回転を同時に行う
 
@@ -35,4 +35,4 @@
 
    - Shift + マウス移動： 回転せずにスケールのみ行う
 
--  クリックで決定
+3. クリックで決定

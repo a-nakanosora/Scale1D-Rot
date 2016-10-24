@@ -15,8 +15,8 @@
 ## Installation
 
 1. Download `mesh_scale1d_rot.py`
--  `Blender User Preference` > `Install from File` > Select `mesh_scale1d_rot.py`
--  Assign shortcut key as you like
+2. `Blender User Preference` > `Install from File` > Select `mesh_scale1d_rot.py`
+3. Assign shortcut key as you like
 
    *Hint:* You can easily assign a shortcut key through the `Right-click` menu over the button in the Tool Shelf:
 
@@ -27,7 +27,7 @@
 ## Usage
 
 1. Select meshes in Mesh-Edit Mode
--  Invoke `Scale1D+Rot` by shortcut key
+2. Invoke `Scale1D+Rot` by shortcut key
 
    - Mouse Move: `Scale+Rot` Mode.
 
@@ -35,4 +35,4 @@
 
    - Shift + Mouse Move: `Scale Only` Mode.
 
--  Click to exit
+3. Click to exit
